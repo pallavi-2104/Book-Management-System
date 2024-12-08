@@ -41,7 +41,3 @@ Sorting and Updating
 
 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pallavi-2104/BookManagementSystem.git
-   cd BookManagementSystem
